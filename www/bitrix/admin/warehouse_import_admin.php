@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/elcorso.warehousecsvimport/admin/warehouse_import_admin.php");?>
