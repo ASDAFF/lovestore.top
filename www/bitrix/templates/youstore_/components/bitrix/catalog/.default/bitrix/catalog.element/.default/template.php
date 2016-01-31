@@ -1,4 +1,5 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+//var_dump($arResult);
 /** @var array $templateData */
 /** @var @global CMain $APPLICATION */
 $this->setFrameMode(true);
@@ -430,7 +431,7 @@ $APPLICATION->SetPageProperty("prop-h1", $arResult["NAME"]);
 	"product_detail", 
 	array(
 		"RCM_TYPE" => "bestsell",
-		"ID" => $_REQUEST["PRODUCT_ID"],
+		"ID" => $arResult["ID"],
 		"IBLOCK_TYPE" => $arParams['IBLOCK_TYPE'],
 		"IBLOCK_ID" => $arParams['IBLOCK_ID'],
 		"SHOW_FROM_SECTION" => "N",

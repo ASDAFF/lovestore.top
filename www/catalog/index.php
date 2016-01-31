@@ -13,7 +13,7 @@
 		"HIDE_NOT_AVAILABLE" => "N",
 		"SECTION_ID_VARIABLE" => "SECTION_ID",
 		"SEF_MODE" => "Y",
-		"SEF_FOLDER" => "/catalog/",
+		"SEF_FOLDER" => "/",
 		"AJAX_MODE" => "N",
 		"AJAX_OPTION_JUMP" => "N",
 		"AJAX_OPTION_STYLE" => "Y",
@@ -214,7 +214,7 @@
 		"SEF_URL_TEMPLATES" => array(
 			"sections" => "",
 			"section" => "#SECTION_CODE_PATH#/",
-			"element" => "#SECTION_CODE_PATH#/#ELEMENT_CODE#/",
+			"element" => "product/#ELEMENT_CODE#/",
 			"compare" => "compare.php?action=#ACTION_CODE#",
 		),
 		"VARIABLE_ALIASES" => array(

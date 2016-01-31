@@ -6909,7 +6909,7 @@ input.file {
 .messages-block .message-blue{
   border-color: #88d0e6;
   color: #88d0e6;
-  background: url(../images/img-alert1.png) no-repeat 33px 50%;
+  background: url(./images/img-alert1.png) no-repeat 33px 50%;
 }
 .messages-block .message-blue .btn-close{background: url(../images/bg-close-blue.png) no-repeat;}
 .messages-block .message-red{

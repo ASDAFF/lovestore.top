@@ -79,7 +79,7 @@ if(!empty($_POST["PERSONAL_BIRTHDAY_DAY"]) && !empty($_POST["PERSONAL_BIRTHDAY_M
 	".default", 
 	array(
 		"IBLOCK_TYPE" => "catalog",
-		"IBLOCK_ID" => "16",
+		"IBLOCK_ID" => "20",
 		"SECTION_ID" => "",
 		"SECTION_CODE" => "",
 		"SECTION_USER_FIELDS" => array(

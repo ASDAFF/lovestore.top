@@ -3728,7 +3728,7 @@ table.crm-feed-info-table tr .crm-feed-info-right-cell {
 }
 
 .bx-crm-filter-btn:before {
-	background: url("images/crm/crm-control-panel-sprite-4.png") no-repeat -22px -1781px;
+	background: url("images/crm/crm-control-panel-sprite-4.png") no-repeat -22px -px;
 	content: "";
 	height: 11px;
 	left: 13px;
